@@ -15,7 +15,6 @@ print(len(img),len(img[0]),img[0][0])
 print(len(img2),len(img2[0]),img2[0][0])
 print(len(img3),len(img3[0]),img3[0][0])
 
-cv2.
 # print result
 # 512 512 [125 137 226]
 # 512 512 [125 137 226]
